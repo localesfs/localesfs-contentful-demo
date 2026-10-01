@@ -1,0 +1,8 @@
+{
+  "sys": { "id": "blogPost" },
+  "fields": [
+    { "id": "title", "type": "Symbol", "localized": true },
+    { "id": "body", "type": "Text", "localized": true },
+    { "id": "hero", "type": "Link", "localized": false }
+  ]
+}

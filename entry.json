@@ -1,0 +1,8 @@
+{
+  "sys": { "id": "hello-world" },
+  "fields": {
+    "title": { "en-US": "Hello from Contentful" },
+    "body": { "en-US": "This Symbol and Text pair is what the CLI pushes." },
+    "hero": { "en-US": { "sys": { "type": "Link", "linkType": "Asset", "id": "hero" } } }
+  }
+}

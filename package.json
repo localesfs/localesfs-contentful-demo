@@ -1,0 +1,7 @@
+{
+  "name": "localesfs-contentful-demo",
+  "private": true,
+  "type": "module",
+  "description": "Map a Contentful blog post onto LocalesFS keys",
+  "license": "MIT"
+}
